@@ -10,7 +10,7 @@ router.get('/', async (req, res) => {
         include: [{
           model: Tag,
           through: ProductTag,
-          as: 'tags', // Asegúrate de tener definido este alias en tus asociaciones
+          as: 'tags',
         }]
       }],
     });

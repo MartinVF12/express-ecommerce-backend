@@ -18,7 +18,7 @@ const categoryData = [
   },
 ];
 
-// Función para sembrar datos de categorías
+
 const seedCategories = async () => {
   await Category.bulkCreate(categoryData.map(category => ({
     ...category,
