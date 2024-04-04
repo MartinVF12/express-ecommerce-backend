@@ -49,7 +49,8 @@ Open a Pull Request
 
 REPO: https://github.com/MartinVF12/express-ecommerce-backend 
 
-VIDEO: 
+VIDEO: https://youtu.be/NCcUAzqSW6Q 
 
 
 
+![Captura de pantalla 2024-04-04 a la(s) 10 34 34 a m](https://github.com/MartinVF12/express-ecommerce-backend/assets/152545821/6b62a660-1555-4789-95db-6e9dab61a5cb)
